@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\bin\Debug\MerchDesktopApp1.exe.config
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\bin\Debug\MerchDesktopApp1.exe
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\bin\Debug\MerchDesktopApp1.pdb
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\obj\Debug\MerchDesktopApp1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\obj\Debug\MerchDesktopApp1.Properties.Resources.resources
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\obj\Debug\MerchDesktopApp1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\obj\Debug\MerchDesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\obj\Debug\MerchDesktopApp1.exe
+C:\Users\user\source\repos\MerchDesktopApp1\MerchDesktopApp1\obj\Debug\MerchDesktopApp1.pdb
